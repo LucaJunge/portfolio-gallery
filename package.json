@@ -1,0 +1,21 @@
+{
+  "name": "portfolio-gallery",
+  "version": "0.0.1",
+  "description": "A gallery of my own scanned 3d models",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaJunge/portfolio-gallery.git"
+  },
+  "keywords": [],
+  "author": "Luca Junge",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/LucaJunge/portfolio-gallery/issues"
+  },
+  "homepage": "https://github.com/LucaJunge/portfolio-gallery#readme"
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Test 1",
+    "model": "text1.txt"
+  },
+  {
+    "title": "Test 2",
+    "model": "text2.txt"
+  }
+]
